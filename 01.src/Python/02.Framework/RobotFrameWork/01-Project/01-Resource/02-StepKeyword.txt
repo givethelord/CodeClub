@@ -1,0 +1,2 @@
+*** Settings ***
+Documentation     产品的步骤(流程)关键字
