@@ -16,6 +16,8 @@ Python由Guido van Rossum于1989年底发明，第一个公开发行版发行于
 * 教程
     1. [Python 2教程](Python2)
     2. [Python 3教程](Python3)
+    3. [Python 编码规范](Python编码规范.md)
+    4. [Python 编码规范和覆盖率工具](Python编码规范和覆盖率工具.md)
 
 * 常见问题
     1. [中文编码](中文编码.md)

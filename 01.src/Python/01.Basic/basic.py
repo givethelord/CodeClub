@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: UTF-8 -*-
 """
 在 Windows 下可以不写第一行注释:
 #!/usr/bin/python
@@ -9,6 +10,8 @@
 """
 
 # -*- coding:utf-8 -*-
+import logging
+
 """
 第二行是
 Python中默认的编码格式是 ASCII 格式，在没修改编码格式时无法正确打印汉字，所以在读取中文时会报错。
@@ -42,5 +45,3 @@ import base64
 """
 第四部分是引入的三方库
 """
-
-
