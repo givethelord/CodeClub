@@ -1,10 +1,10 @@
 # Python
 
 * 目录
-    * [01.基础](01.Basic)
-    * [02.常用](02.Framework)
-    * [03.项目](03.Project)
-    * [04.总结](04.Summary)
+    * [1.基本语法](01.Basic/README.md)
+    * [2.常用框架](02.Framework/README.md)
+    * [3.项目](03.Project/README.md)
+    * [4.总结](04.Summary/README.md)
 
 
 
