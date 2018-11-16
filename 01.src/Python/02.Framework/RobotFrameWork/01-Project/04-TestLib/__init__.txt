@@ -1,2 +1,0 @@
-*** Settings ***
-Documentation     第三方扩展库统一存放在TestLib目录下

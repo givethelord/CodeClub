@@ -39,7 +39,7 @@
     * [Scala](Scala)
     * [Sed](Sed)
     * [Shell](Shell)
-    * [SQL](SQL)
+    * [Sql](Sql)
     * [Swift](Swift)
     * [TCL](TCL)
     * [TypeScript](TypeScript)

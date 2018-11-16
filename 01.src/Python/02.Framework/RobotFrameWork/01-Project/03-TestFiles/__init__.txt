@@ -1,2 +1,0 @@
-*** Settings ***
-Documentation     上传所用的文件统一存放在FileUpload目录下

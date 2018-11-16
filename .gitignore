@@ -1,3 +1,7 @@
 /.idea/
 .idea
 *.stackdump
+/.vs/
+/Debug/
+/venv/
+/.vscode/

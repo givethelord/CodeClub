@@ -1,2 +1,0 @@
-*** Settings ***
-Documentation     产品的元素(组件)关键字
