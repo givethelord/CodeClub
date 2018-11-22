@@ -48,7 +48,7 @@
 
     例如
     ```
-    Open Browser    https://www.baidu.com    chrome    remote_url=http;//1092.168.1.1:4444/wd/hub
+    Open Browser    https://www.baidu.com    chrome    remote_url=http://1092.168.1.1:4444/wd/hub
     ```
 * 使用VNC查看
     1. [地址](https://www.realvnc.com/download/viewer)下载VNC

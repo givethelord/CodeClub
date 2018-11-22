@@ -9,8 +9,7 @@
 * [版本概念](version.md)
 
 * 安装系统类型
-    * [CentOS](http://www.runoob.com/docker/centos-docker-install.html)
-
+    * [Windows7](install_windows7.md)
 
 * 镜像定制
     1. [手动修改容器镜像](DockerCommit.md)
