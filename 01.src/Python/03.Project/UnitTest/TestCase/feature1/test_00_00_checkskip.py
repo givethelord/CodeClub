@@ -20,7 +20,6 @@
 import unittest
 from TestContent.mathfunc import *
 from Resource.common_init import common_init
-import os
 
 if os.environ["run_env"] == "alpha":
     from Variables.alpha import *
