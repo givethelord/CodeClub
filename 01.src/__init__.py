@@ -1,17 +1,11 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# @Time    : 2018/11/22 15:56
+# @Time    : 2019/4/14 18:16
 # @Author  : Administrator
-# @Site    : 
-# @File    : common.py
-# @Software: PyCharm
+# @File    : __init__.py.py
 
 """
 -----------------------------------------------------
-Function:
-
 
 -----------------------------------------------------
 """
-
-url_head = "http://"

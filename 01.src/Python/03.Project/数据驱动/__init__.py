@@ -1,18 +1,15 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# @Time    : 2018/11/22 15:57
+# @Time    : 2019/4/13 17:10
 # @Author  : Administrator
 # @Site    : 
-# @File    : beta.py
+# @File    : __init__.py.py
 # @Software: PyCharm
 
 """
 -----------------------------------------------------
-beta环境变量
+Function:
 
 
 -----------------------------------------------------
 """
-
-global baidu_url
-baidu_url = "www.baidu2.com"
